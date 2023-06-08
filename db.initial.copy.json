@@ -1,0 +1,76 @@
+{
+  "jokes": [
+    {
+      "id": "e9b1f3b7-bd9e-40b5-b3af-26dad32766c0",
+      "answer": "Inheritance",
+      "question": "Whats the object-oriented way to become wealthy?",
+      "deleted": false
+    },
+    {
+      "id": "3547628e-597f-4e62-aee9-f55e1d69fd77",
+      "answer": "The SQL",
+      "question": "What's the second movie about a database engineer called?",
+      "deleted": false
+    },
+    {
+      "id": "f8b4f2a7-fc98-4655-92d5-ef9ba2a43318",
+      "answer": "I've got to give you props",
+      "question": "What did the proud React component say to its child?",
+      "deleted": false
+    },
+    {
+      "id": "432d2f1e-3886-4d68-bad2-0f7f428dbc0d",
+      "answer": "None. It's a hardware issue",
+      "question": "How many developers does it take to change a light bulb?",
+      "deleted": false
+    },
+    {
+      "id": "7171d9d7-1e58-4930-b694-5bc8d4868376",
+      "answer": "Because they don't want them playing with matches",
+      "question": "Why don't parents teach their kids about regular expressions?",
+      "deleted": false
+    },
+    {
+      "id": "0e852620-60f5-4264-a88f-e6262e12157b",
+      "answer": "She had one-to-many relationships.",
+      "question": "Why did the database administrator leave his wife?",
+      "deleted": false
+    },
+    {
+      "id": "bf5be130-373e-4fda-b355-439bc3636a42",
+      "answer": "The Foo bar",
+      "question": "Where do developers drink?",
+      "deleted": false
+    },
+    {
+      "id": "788a2eaf-a525-4fe6-a55d-16cb9083b7ec",
+      "answer": " A Terminal illness.",
+      "question": "What did the command line die of?",
+      "deleted": false
+    },
+    {
+      "id": "abfbdc9d-5aa3-4061-8252-2dd3006961f1",
+      "answer": "Because after Alice and Bob, they can't think of any other names",
+      "question": "Why do cryptographers never have more than 2 kids?",
+      "deleted": false
+    },
+    {
+      "id": "720a2b86-58cf-493a-a65e-89f03c472df8",
+      "answer": "Try catch.",
+      "question": "What advice do you give to a JS developer who has never played baseball?",
+      "deleted": false
+    },
+    {
+      "id": "ecf1b967-c3df-43cb-a90b-28c10aaf6ab9",
+      "answer": "Amazon Web Services",
+      "question": "What did Wonder Woman and Spider-Man name their business?",
+      "deleted": false
+    },
+    {
+      "id": "2e9350b9-cdd6-4aa5-b29f-24279d3f14b3",
+      "answer": " They are always listening",
+      "question": "Why do Websockets make the best therapists?",
+      "deleted": false
+    }
+  ]
+}
